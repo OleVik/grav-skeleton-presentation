@@ -1,0 +1,17 @@
+git:
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    presentation:
+        url: https://github.com/OleVik/grav-plugin-timeline
+        path: user/plugins/timeline
+        branch: master
+    quark:
+        url: https://github.com/getgrav/grav-theme-quark
+        path: user/themes/quark
+        branch: master

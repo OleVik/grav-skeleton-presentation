@@ -1,0 +1,20 @@
+name: Timeline Skeleton
+version: 1.0.1
+description: A demonstration of the Timeline-plugin.
+icon: align-center
+author:
+  name: Ole Vik
+  email: git@olevik.net
+homepage: https://github.com/OleVik/grav-skeleton-timeline
+demo: https://olevik.me/staging/grav-skeleton-timeline
+keywords: grav, skeleton, timeline
+bugs: https://github.com/OleVik/grav-skeleton-timeline/issues
+readme: https://github.com/OleVik/grav-skeleton-timeline/blob/develop/README.md
+license: MIT
+
+dependencies:
+- { name: grav, version: '~1.6' }
+- { name: quark, version: '~1.0' }
+- { name: admin, version: '~1.0' }
+- { name: auto-date, version: '~1.0' }
+- { name: timeline, version: '~1.0' }
