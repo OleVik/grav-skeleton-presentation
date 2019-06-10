@@ -27,6 +27,10 @@ assets:
   js_pipeline: false
   js_minify: true
 
+errors:
+  display: 1
+  log: true
+  
 debugger:
   enabled: false
   twig: true

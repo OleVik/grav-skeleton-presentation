@@ -2,8 +2,8 @@
 title: Postscript
 ---
 
-[data-textsize-scale=1.25]
-[data-textsize-modifier=0.90]
+[data-textsize-scale="1.25"]
+[data-textsize-modifier="0.90"]
 
 ## Postscript
 

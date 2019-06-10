@@ -35,9 +35,9 @@ Like with [normal Markdown](https://daringfireball.net/projects/markdown/basics)
 
 ---
 
-[fragment=highlight-current-red]The Caterpillar and Alice looked at each other for some time in silence: at last the Caterpillar took the hookah out of its mouth, and addressed her in a languid, sleepy voice.[/fragment]
+[fragment="highlight-current-red"]The Caterpillar and Alice looked at each other for some time in silence: at last the Caterpillar took the hookah out of its mouth, and addressed her in a languid, sleepy voice.[/fragment]
 
-[fragment=highlight-current-red]> ‘Who are *you* ?’ said the Caterpillar.[/fragment]
+[fragment="highlight-current-red"]> ‘Who are *you* ?’ said the Caterpillar.[/fragment]
 
 [notes]
 

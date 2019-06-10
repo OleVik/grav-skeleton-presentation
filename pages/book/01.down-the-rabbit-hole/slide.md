@@ -18,9 +18,9 @@ You can, however, navigate freely between the slides using the Overview, by pres
 
 ---
 
-[style-color=white]
-[style-font-weight=#be281b]
-[style-background-image=dress-color.png]
+[style-color="white"]
+[style-font-weight="bold"]
+[style-background-image="dress-color.png"]
 
 There was nothing so *very* remarkable in that; nor did Alice think it so *very* much out of the way to hear the Rabbit say to itself, 
 
@@ -57,7 +57,7 @@ This slide uses shortcodes to declare a custom text color, font weight, and back
 
 ---
 
-[class=skinny]
+[class="skinny"]
 
 ![White Rabbit checking watch](https://vignette1.wikia.nocookie.net/disney/images/c/c9/Tumblr_mvvwp4QVau1qhcrb0o1_1280.jpg/revision/latest/scale-to-width-down/1280?cb=20131108181614 "White Rabbit checking watch")
 

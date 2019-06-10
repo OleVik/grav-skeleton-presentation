@@ -5,7 +5,7 @@ style:
   background-color: '#5dcddf'
 ---
 
-[style-justify-content=center]
+[style-justify-content="center"]
 
 ## A Mad Tea-Party
 

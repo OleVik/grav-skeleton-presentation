@@ -1,6 +1,6 @@
 name: Presentation Skeleton
-version: 1.0.1
-description: A demonstration of the presentation-plugin.
+version: 1.0.2
+description: A demonstration of the Presentation-plugin.
 icon: arrows-alt
 author:
   name: Ole Vik
@@ -13,6 +13,6 @@ readme: https://github.com/OleVik/grav-skeleton-presentation/blob/develop/README
 license: MIT
 
 dependencies:
-- { name: grav, version: '~1.6' }
-- { name: quark, version: '>=1.0' }
-- { name: presentation, version: '~1.0' }
+  - { name: grav, version: ">=1.6" }
+  - { name: quark, version: ">=1.0" }
+  - { name: presentation, version: ">=2.0.0" }

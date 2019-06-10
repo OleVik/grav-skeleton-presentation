@@ -24,10 +24,10 @@ Notes are written within an opening and a closing `notes`-shortcode, and can als
 
 ---
 
-[style-color=#eee8d5]
-[style-background-color=#9C3D94]
-[data-textsize-scale=1.25]
-[data-textsize-modifier=0.75]
+[style-color="#eee8d5"]
+[style-background-color="#9C3D94"]
+[data-textsize-scale="1.25"]
+[data-textsize-modifier="0.75"]
 
 ## Talking to the Cat
 
@@ -62,10 +62,10 @@ Base font sizes are determined by the `breakpoints`-option, which matches the br
 
 ## Finding her way
 
-[style-color=#eee8d5]
-[style-background-color=#9C3D94]
-[data-textsize-scale=1.25]
-[data-textsize-modifier=0.75]
+[style-color="#eee8d5"]
+[style-background-color="#9C3D94"]
+[data-textsize-scale="1.25"]
+[data-textsize-modifier="0.75"]
 
 > ‘— so long as I get *somewhere* ,’
 

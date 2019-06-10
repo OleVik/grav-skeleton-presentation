@@ -8,8 +8,8 @@ git:
         path: user/plugins/problems
         branch: master
     presentation:
-        url: https://github.com/OleVik/grav-plugin-timeline
-        path: user/plugins/timeline
+        url: https://github.com/OleVik/grav-plugin-presentation
+        path: user/plugins/presentation
         branch: master
     quark:
         url: https://github.com/getgrav/grav-theme-quark

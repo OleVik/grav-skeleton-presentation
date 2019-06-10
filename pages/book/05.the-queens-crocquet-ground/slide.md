@@ -30,10 +30,9 @@ There are many ways of using or extending the Plugin, see its [homepage](https:/
 [/notes]
 
 ---
-
-[data-background-image=https://vignette3.wikia.nocookie.net/disney/images/8/8a/Alice-disneyscreencaps_com-7771.jpg/revision/latest/scale-to-width-down/1280?cb=20110525015050]
-[data-background-size=contain]
-[style-background-color=transparent]
+[data-background-image="https://vignette3.wikia.nocookie.net/disney/images/8/8a/Alice-disneyscreencaps_com-7771.jpg/revision/latest/scale-to-width-down/1280?cb=20110525015050"]
+[data-background-size="contain"]
+[style-background-color="transparent"]
 
 [notes]
 
@@ -45,11 +44,11 @@ Note how `style-background-color=transparent` is used to unset the color that ar
 
 ---
 
-[data-background-video=https://dl3.webmfiles.org/big-buck-bunny_trailer.webm]
-[data-background-video-loop=true]
-[data-background-video-muted=true]
-[data-background-size=contain]
-[style-background-color=transparent]
+[data-background-video="https://upload.wikimedia.org/wikipedia/commons/c/c0/Big_Buck_Bunny_4K.webm"]
+[data-background-video-loop="true"]
+[data-background-video-muted="true"]
+[data-background-size="contain"]
+[style-background-color="transparent"]
 
 [notes]
 

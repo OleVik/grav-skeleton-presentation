@@ -1,5 +1,5 @@
 ---
-title: Alice’s Adventures in Wonderland
+title: 'Alice’s Adventures in Wonderland'
 ---
 
 ## Alice’s Adventures in Wonderland
